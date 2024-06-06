@@ -12,14 +12,14 @@ is a containerization platform.
 
 
 
-## What is a container
+#### What is a container
 One of the main advantages of containers is that they are lightweight and portable. 
 A container contains all the components necessary for the application to work
 The containers are isolated from each other and from the main system, making them portable and easy to deploy in different environments.
 
 
 
-### What is image 
+#### What is image 
 The working version of the image is called a container 
 Images are defined through text files, usually called Dockerfiles 
 It forms the basis of Docker containers and provides all the files and settings needed to initialize a container
