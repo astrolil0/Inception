@@ -26,3 +26,9 @@ It forms the basis of Docker containers and provides all the files and settings 
 Each image is identified by a unique ID, which enables storage and sharing of the Docker image.
 If the image server is hacked, it also affects the 2nd application
 Translated with DeepL.com (free version)
+
+
+
+### Dockerfile
+Dockerfile is a text-based file used to create Docker containers.
+It describes step by step how to create a container image.
