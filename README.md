@@ -36,10 +36,7 @@ Dockerfile is a text-based file used to create Docker containers.
 It describes step by step how to create a container image.
 
 
-Docker compose 
-
+### Docker compose 
 It is a tool for defining and running Docker containers. 
-
 Docker Compose allows you to manage multiple containers with a single command. 
-
 Docker Compose is a YAML file used to define multiple services (containers) and specify how these services communicate with each other.
