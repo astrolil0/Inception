@@ -30,6 +30,7 @@ If the image server is hacked, it also affects the 2nd application
 Translated with DeepL.com (free version)
 
 
+## 
 
 #### Dockerfile
 Dockerfile is a text-based file used to create Docker containers.
